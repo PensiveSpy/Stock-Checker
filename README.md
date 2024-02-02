@@ -6,6 +6,7 @@ Stock Checker is a web application built with React. It provides users with the 
 # Dependencies 
 Dependencies
 The app utilizes the following external libraries:
+
 React
 Recharts
 Heroicons
