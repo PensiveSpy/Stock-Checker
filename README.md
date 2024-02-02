@@ -8,7 +8,9 @@ Dependencies
 The app utilizes the following external libraries:
 
 React
+
 Recharts
+
 Heroicons
 
 # Acknowledgment
